@@ -127,7 +127,7 @@ body{
     color: white;
 }
 .pricing-button.is-featured:hover, .pricing-button.is-featured:focus{
-    background-color: #e1e1e1;
+    background-color: white;
     color: black;
 }
 
