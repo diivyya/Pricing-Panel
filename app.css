@@ -118,14 +118,15 @@ body{
     transition: background-color 200ms ease-in-out;
 }
 .pricing-button:hover, .pricing-button:focus{
-    background-color: #e1f1ff;
+    background-color: #48aaff;
+    color: white;
 }
 
 .pricing-button.is-featured{
     background-color: #48aaff;
     color: white;
 }
-.pricing-button.is-featured:focus, .pricing-button.is-featured:hover{
+.pricing-button.is-featured:hover, .pricing-button.is-featured:focus{
     background-color: #e1e1e1;
     color: black;
 }
